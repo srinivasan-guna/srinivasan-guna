@@ -1,7 +1,7 @@
 # Hello, Geeks! 👋🏼 
 I'm Srini, a self-taught Full Stack Developer from India.
 
-I look forward to absorb knowledge🧠,gain experience🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+I look forward to absorb knowledge🧠, gain experience🏭, collaborate🤝 and build amazing products🏭 for the world🌍!
 <ul>
   <li>🔭 I’m currently working on ReactJS & Nodejs.</li>
   <li>🌱 I’m currently learning Data Structures and Algorithms.(any help appreciated)</li>
