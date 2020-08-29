@@ -1,4 +1,4 @@
-# Hello, Geeks! 👋🏼 <div class="tenor-gif-embed" data-postid="11366012" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012">Waving Hi GIF</a> from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# Hello, Geeks! 👋🏼 
 I'm Srini, a self-taught Full Stack Developer from India.
 
 I look forward to absorb knowledge🧠,gain experience🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
