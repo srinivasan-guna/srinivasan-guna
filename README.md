@@ -5,7 +5,6 @@ I look forward to absorb knowledge🧠, gain experience🏭, collaborate🤝 and
 <ul>
   <li>🔭 I’m currently working on ReactJS & Nodejs.</li>
   <li>🌱 I’m currently learning Data Structures and Algorithms.(any help appreciated)</li>
-  <li>⚡ Available for Freelance projects/internship opportunities.</li>
 </ul>
 
 # 📫 How to reach me?
