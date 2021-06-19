@@ -11,6 +11,8 @@ I look forward to absorb knowledge🧠, gain experience🏭, collaborate🤝 and
   <li>IDE & Editors: Eclipse, STS, VS Code, Atom</i>
 </ul>
 
+* :heavy_check_mark: Front end: HTML5, CSS3, jQuery, Bootstrap, React</li> 
+
 # 📫 How to reach me?
 If you would like to discuss these things, you can join me on <a href="https://www.linkedin.com/in/srinivasan-gunasekaran/">LinkedIn/</a><a href="https://www.instagram.com/the._.antagonist/">Instagram</a>. You can also ask me anything (within reason).
 
