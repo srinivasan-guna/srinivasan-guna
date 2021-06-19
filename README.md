@@ -3,8 +3,12 @@ I'm Srini, a self-taught Full Stack Developer from India.
 
 I look forward to absorb knowledge🧠, gain experience🏭, collaborate🤝 and build amazing products🏭 for the world🌍!
 <ul>
-  <li>🔭 I’m currently working on AWS & Spring Boot.</li>
-  <li>🌱 I’m currently learning Data Structures and Algorithms.(any help appreciated)</li>
+  <li>Front end: HTML5, CSS3, jQuery, Bootstrap, React</li>
+  <li>Back end: Spring Boot, Spring Data JPA, Spring Security, Spring Rest</li>
+  <li>Databases: MySQL, MongoDB, DynamoDB, Redis</li>
+  <li>Programming languages: Java, C, JavaScript, SQL</li>
+  <li>Tools: Apache Maven, Git, Github, Docker, Postman</li>
+  <li>IDE & Editors: Eclipse, STS, VS Code, Atom</i>
 </ul>
 
 # 📫 How to reach me?
