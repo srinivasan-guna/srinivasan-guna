@@ -3,7 +3,9 @@ I'm Srini, a self-taught Full Stack Developer from India.
 
 I look forward to absorb knowledge🧠, gain experience🏭, collaborate🤝 and build amazing products🏭 for the world🌍!
 <ul>
-  <li>__Front end__: HTML5, CSS3, jQuery, Bootstrap, React</li>
+  <li>
+    __Front end__: HTML5, CSS3, jQuery, Bootstrap, React
+  </li>
   <li>Back end: Spring Boot, Spring Data JPA, Spring Security, Spring Rest</li>
   <li>Databases: MySQL, MongoDB, DynamoDB, Redis</li>
   <li>Programming languages: Java, C, JavaScript, SQL</li>
