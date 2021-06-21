@@ -1,5 +1,5 @@
 # Hello, Geeks! 👋🏼 
-I'm Srini, a self-taught Full Stack Developer from India.
+I'm Srini, a self-taught Java Full Stack Developer from India.
 
 I look forward to absorb knowledge🧠, gain experience🏭, collaborate🤝 and build amazing products🏭 for the world🌍!
 
